@@ -1,3 +1,4 @@
 <p align="center">
 😁 Hello there 
-</p> My name is Gerry
+</p>
+<p align="center"> My name is Gerry
