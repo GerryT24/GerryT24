@@ -1,2 +1,2 @@
-"# GerryT24" 
-😁
+<p align="center">
+😁 Hi, I'm Gerry
