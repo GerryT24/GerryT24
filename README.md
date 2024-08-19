@@ -1,4 +1,4 @@
 <p align="center">
 😁 Hi, 
 </p>
-I'm Gerry
+<p align="center"> I'm Gerry
